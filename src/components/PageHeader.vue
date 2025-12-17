@@ -6,7 +6,7 @@
                 <p @click="$router.push('/')" class="cursor">Каталог</p>
             </v-col>
             <v-col>
-                <p>Поиск</p>
+                <p>Пои ск</p>
             </v-col>
             <v-col>
                 <p>Регион</p>
